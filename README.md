@@ -21,7 +21,7 @@ Tech Stack:
 Python, NumPy, Pandas, Matplotlib, NetworkX, Scikit-learn
 
 Project Structure:
-imports.py, finite_group.py, group_constructors.py, group_collection.py, visualization.py, example_plots.py, feature_extraction.py, labeling.py, abelian_classification.py, multiclass_classification.py, feature_importance.py, embeddings_visualization.py
+setup_environment.py, finite_group.py, group_constructors.py, group_collection.py, visualization.py, example_plots.py, feature_extraction.py, labeling.py, abelian_classification.py, multiclass_classification.py, feature_importance.py, embeddings_visualization.py
 
 Motivation:
 Abstract algebra is often approached symbolically, but computational tools allow us to experiment with structures, observe patterns, and build intuition. This project demonstrates how mathematical theory can be explored using programming, visualization, and data science methods.
